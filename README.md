@@ -14,7 +14,7 @@ To run the application, follow this instructions:
 
 - On Linux and Windows command line:
 - First, install all required depedencies
-> python3 -f requirements.txt
+> pip install -r requirements.txt
 - Then run the program:
 > python3 run.py
 - Click on the link provided in the terminal/command line interface to view the program on the browser.
